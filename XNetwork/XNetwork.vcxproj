@@ -143,6 +143,13 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataTool.h" />
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="MathTool.h" />
+    <ClInclude Include="NetUtil.h" />
+    <ClInclude Include="SysTool.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
